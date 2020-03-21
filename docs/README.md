@@ -1,8 +1,7 @@
-- [Description](#description)
-- [Features](#features)
-
 # Description
-This is a sample template project for
+This is a template for Arduino projects.
+
+![cover](images/cover.jpg)
 
 # Features
 - Modularity - separate file and routines for each of your sensors or concerns
