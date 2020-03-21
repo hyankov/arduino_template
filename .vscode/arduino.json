@@ -1,0 +1,7 @@
+{
+    "sketch": "ArduinoTemplate/ArduinoTemplate.ino",
+    "port": "COM6",
+    "board": "arduino:avr:uno",
+    "output": "../ArduinoOutput",
+    "programmer": "AVRISP mkII"
+}
