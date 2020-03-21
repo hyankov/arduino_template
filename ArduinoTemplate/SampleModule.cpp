@@ -30,8 +30,6 @@ void setupSampleModule()
 
 void loopSampleModule()
 {
-    unsigned long currentMs = millis();
-
     // Every SOME_INTERVAL_MS milliseconds
     if (world.now >= _nextTimeAt)
     {
